@@ -1,4 +1,5 @@
-# Task 2: House Price Prediction (Regression)
+# Task 1
+# project 2: House Price Prediction (Regression)
 Part of my Data Science internship at SoftGrowTech.
 
 ## 📊 Project Overview
